@@ -1,5 +1,6 @@
-# CS 205 - Introduction to Discrtete Structures I
+# CS 205 - Introduction to Discrete Structures I
 Professor: Antonio Miranda
 
+Final Grade: A
 
-For more info: check out his [CS 205 page](https://www.cs.rutgers.edu/~am2073/cs205/)
+<br/>For more info: check out his [CS 205 page](https://www.cs.rutgers.edu/~am2073/cs205/)
